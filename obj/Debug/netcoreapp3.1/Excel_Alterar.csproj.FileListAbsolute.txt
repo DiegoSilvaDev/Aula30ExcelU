@@ -1,0 +1,13 @@
+C:\Users\Diego\OneDrive\Área de Trabalho\Ux\SENAI\Excel_Alterar\bin\Debug\netcoreapp3.1\Excel_Alterar.exe
+C:\Users\Diego\OneDrive\Área de Trabalho\Ux\SENAI\Excel_Alterar\bin\Debug\netcoreapp3.1\Excel_Alterar.deps.json
+C:\Users\Diego\OneDrive\Área de Trabalho\Ux\SENAI\Excel_Alterar\bin\Debug\netcoreapp3.1\Excel_Alterar.runtimeconfig.json
+C:\Users\Diego\OneDrive\Área de Trabalho\Ux\SENAI\Excel_Alterar\bin\Debug\netcoreapp3.1\Excel_Alterar.runtimeconfig.dev.json
+C:\Users\Diego\OneDrive\Área de Trabalho\Ux\SENAI\Excel_Alterar\bin\Debug\netcoreapp3.1\Excel_Alterar.dll
+C:\Users\Diego\OneDrive\Área de Trabalho\Ux\SENAI\Excel_Alterar\bin\Debug\netcoreapp3.1\Excel_Alterar.pdb
+C:\Users\Diego\OneDrive\Área de Trabalho\Ux\SENAI\Excel_Alterar\obj\Debug\netcoreapp3.1\Excel_Alterar.csprojAssemblyReference.cache
+C:\Users\Diego\OneDrive\Área de Trabalho\Ux\SENAI\Excel_Alterar\obj\Debug\netcoreapp3.1\Excel_Alterar.csproj.CoreCompileInputs.cache
+C:\Users\Diego\OneDrive\Área de Trabalho\Ux\SENAI\Excel_Alterar\obj\Debug\netcoreapp3.1\Excel_Alterar.AssemblyInfoInputs.cache
+C:\Users\Diego\OneDrive\Área de Trabalho\Ux\SENAI\Excel_Alterar\obj\Debug\netcoreapp3.1\Excel_Alterar.AssemblyInfo.cs
+C:\Users\Diego\OneDrive\Área de Trabalho\Ux\SENAI\Excel_Alterar\obj\Debug\netcoreapp3.1\Excel_Alterar.dll
+C:\Users\Diego\OneDrive\Área de Trabalho\Ux\SENAI\Excel_Alterar\obj\Debug\netcoreapp3.1\Excel_Alterar.pdb
+C:\Users\Diego\OneDrive\Área de Trabalho\Ux\SENAI\Excel_Alterar\obj\Debug\netcoreapp3.1\Excel_Alterar.genruntimeconfig.cache
